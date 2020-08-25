@@ -5,7 +5,7 @@ class Config(Config):
 	TG_BOT_TOKEN= "1221269735:AAHMbG34oCUml4sRplaXIl9eJS4Ylp8SaWM"
 	APP_ID = 1682719
 	API_HASH = "2edcaea55a3738985d979c3bf72b2e0d"
-	OWNER_ID = "1042281429" #ID of bot owner
+	OWNER_ID = 1042281429 #ID of bot owner
 	AUTH_CHANNEL = [-1001227823555]
 	DESTINATION_FOLDER = "Kat rip" #Name of your folder read readme
 	RCLONE_CONFIG = """type = drive
